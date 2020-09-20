@@ -1,8 +1,6 @@
 # 2darrays
 Context
-Given a 2D Array,
-
-:
+Given a 2D Array
 
 1 1 1 0 0 0
 0 1 0 0 0 0
