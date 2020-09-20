@@ -1,6 +1,6 @@
 # 2darrays
 Context
-Given a 2D Array
+Given a 2D Array 6x6
 
 1 1 1 0 0 0
 0 1 0 0 0 0
